@@ -3,7 +3,7 @@
 Criando uma api para cadastramento de movies
  ---
 
-Aprendendo a criar apis 100% restful com python usando o flask 
+Aprendendo a criar apis 100% restfull com python usando o flask 
 A API atualmente permite:
 ```
 Cadastramento pelo method  ['POST']
